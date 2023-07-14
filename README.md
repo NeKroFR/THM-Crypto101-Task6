@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://tryhackme.com/room/encryptioncrypto101" target="_blank"> <img src="https://github.com/NeKroFR/README-files/blob/main/Encryption%20-%20Crypto%20101.PNG" />
+<a href="https://tryhackme.com/room/encryptioncrypto101" target="_blank"> <img src="https://i.imgur.com/3iPPPah.png" />
 </p>
   
 # p*q=n
